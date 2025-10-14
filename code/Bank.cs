@@ -5,7 +5,7 @@ using System.Text.Json;
 
 namespace BankAccountApp
 {
-    /// <summary>
+    /// <summary>s
     /// Bank class that manages multiple accounts and persistence.
     /// </summary>
     public class Bank

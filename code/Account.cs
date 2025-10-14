@@ -10,7 +10,8 @@ namespace BankAccountApp
     {
         public string AccountNumber { get; set; } = "";
         public string Owner { get; set; } = "";
-        public decimal Balance { get; set; }         public List<Transaction> Transactions { get; set; } = new();
+        public decimal Balance { get; set; }         
+        public List<Transaction> Transactions { get; set; } = new();
 
         /// <summary>
         /// Deposits an amount into the account.
