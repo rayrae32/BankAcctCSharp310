@@ -1,3 +1,33 @@
+# Task Tracker App
+
+## Description
+A simple task management app that allows users to manage daily tasks.
+
+## Features
+- Add tasks
+- Mark tasks as complete
+- Delete tasks
+
+## Technologies Used
+- JavaScript
+- HTML
+- CSS
+
+## What I Learned
+- DOM manipulation
+- Event handling
+- Building interactive UI
+
+## Future Improvements
+- Add local storage
+- Improve UI design
+
+
+
+
+
+
+
 # Overview
 
 As a growing software engineer, I’m focused on strengthening my backend programming and data management skills by building structured, real-world applications.
